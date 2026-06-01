@@ -110,10 +110,17 @@
     }
 
     function sanitizeImageSrc(src) {
-      // Only allow relative paths ending in known image extensions
+      // Validate via URL constructor — blocks javascript:, data:, vbscript: etc.
       if (typeof src !== 'string') return '';
-      var s = src.trim();
-      return /^[^:]*\.(jpe?g|png|gif|webp|svg)$/i.test(s) ? s : '';
+      try {
+        var url = new URL(src, window.location.href);
+        if (url.protocol !== 'https:' && url.protocol !== 'http:' && url.protocol !== 'file:') {
+          return '';
+        }
+        return url.href;
+      } catch (e) {
+        return '';
+      }
     }
 
     function updateLightbox() {
