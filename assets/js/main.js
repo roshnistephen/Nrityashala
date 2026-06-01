@@ -109,8 +109,16 @@
       document.body.style.overflow = '';
     }
 
+    function sanitizeImageSrc(src) {
+      // Allow only relative paths and same-origin URLs (no javascript: or data: URIs)
+      if (typeof src !== 'string') return '';
+      var trimmed = src.trim();
+      if (/^(javascript:|data:|vbscript:)/i.test(trimmed)) return '';
+      return trimmed;
+    }
+
     function updateLightbox() {
-      if (lbImg) lbImg.src = lbImages[lbIndex];
+      if (lbImg) lbImg.src = sanitizeImageSrc(lbImages[lbIndex]);
       if (lbCounter && lbImages.length > 1) {
         lbCounter.textContent = (lbIndex + 1) + ' / ' + lbImages.length;
       }
