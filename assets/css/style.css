@@ -43,6 +43,7 @@
 html {
   scroll-behavior: smooth;
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 body {
@@ -1556,6 +1557,7 @@ p:last-child { margin-bottom: 0; }
     background: rgba(212,175,55,0.12);
   }
   .nav-menu a::after { display: none; }
+  .odissi-section::before { width: 120%; left: -10%; }
   .welcome-grid, .guru-preview-grid, .about-bio-grid,
   .contact-preview-grid, .contact-page-grid { grid-template-columns: 1fr; gap: 3rem; }
   .about-portrait { position: static; }
