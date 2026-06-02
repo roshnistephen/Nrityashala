@@ -1504,8 +1504,8 @@ p:last-child { margin-bottom: 0; }
   .navbar-brand-text { min-width: 0; }
   .navbar-brand-name { font-size: 0.98rem; }
   .navbar-brand-tagline { font-size: 0.52rem; letter-spacing: 0.12em; }
-  .hamburger { display: flex; }
   .hamburger {
+    display: flex;
     align-items: center;
     justify-content: center;
     width: 2.5rem;
