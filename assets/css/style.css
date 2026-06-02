@@ -767,7 +767,7 @@ p:last-child { margin-bottom: 0; }
   align-items: center;
 }
 .contact-preview h2 { color: var(--gold); margin-bottom: 1rem; }
-.contact-preview p { font-size: 1.02rem; margin-bottom: 2rem; }
+.contact-preview p { font-size: 1.02rem; margin-bottom: 2rem; color: rgba(250,247,242,0.88); }
 .contact-detail-items { display: flex; flex-direction: column; gap: 1rem; }
 .contact-detail-row {
   display: flex;
@@ -795,7 +795,7 @@ p:last-child { margin-bottom: 0; }
   text-align: center;
 }
 .contact-right-box h3 { color: var(--gold); margin-bottom: 1rem; }
-.contact-right-box p { margin-bottom: 2rem; }
+.contact-right-box p { margin-bottom: 2rem; color: rgba(250,247,242,0.88); }
 
 /* ===== 13. ABOUT GURU PAGE ===== */
 .about-bio { padding: 6rem 0; background: var(--ivory); }
@@ -1574,6 +1574,9 @@ p:last-child { margin-bottom: 0; }
   .welcome-stats { grid-template-columns: repeat(3, 1fr); }
   .guru-imgs-grid { grid-template-columns: 1fr 1fr; }
   .contact-preview-grid { gap: 3rem; }
+  .contact-right-box { padding: 2rem; }
+  .contact-right-box a { display: block; width: 100%; margin-bottom: 1rem; margin-right: 0; }
+  .contact-right-box a:last-child { margin-bottom: 0; }
   .hero-title { font-size: 2.5rem; }
   .lightbox-prev { left: 0.5rem; }
   .lightbox-next { right: 0.5rem; }
@@ -1592,4 +1595,6 @@ p:last-child { margin-bottom: 0; }
   .about-highlights { grid-template-columns: 1fr; }
   .hero-cta { flex-direction: column; align-items: center; }
   .schedule-row { flex-direction: column; gap: 0.25rem; }
+  .contact-right-box { padding: 1.5rem; }
+  .btn { padding: 0.75rem 1.75rem; font-size: 0.7rem; }
 }
