@@ -1444,8 +1444,8 @@ a:hover { color: var(--gold-light); }
 
 /* ===== 19. FOOTER ===== */
 .footer {
-  background: var(--maroon-dark);
-  color: rgba(250,247,242,0.75);
+  background: var(--brand-apricot-white);
+  color: var(--brand-maroon);
   padding: 5rem 0 0;
   position: relative;
 }
@@ -1461,7 +1461,7 @@ a:hover { color: var(--gold-light); }
   grid-template-columns: 2fr 1fr 1.75fr;
   gap: 4rem;
   padding-bottom: 4rem;
-  border-bottom: 1px solid rgba(255,255,255,0.07);
+  border-bottom: 1px solid rgba(98,6,33,0.2);
 }
 .footer-brand img {
   max-width: 210px;
@@ -1481,10 +1481,10 @@ a:hover { color: var(--gold-light); }
   font-size: 0.72rem;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: rgba(212,175,55,0.55);
+  color: var(--brand-maroon);
   margin-bottom: 1rem;
 }
-.footer-brand p { font-size: 0.875rem; line-height: 1.8; color: rgba(250,247,242,0.55); }
+.footer-brand p { font-size: 0.875rem; line-height: 1.8; color: var(--brand-maroon); }
 .footer-social {
   display: flex;
   gap: 0.75rem;
@@ -1492,17 +1492,17 @@ a:hover { color: var(--gold-light); }
 }
 .footer-social a {
   width: 36px; height: 36px;
-  border: 1px solid rgba(212,175,55,0.3);
+  border: 1px solid var(--maroon);
   display: flex;
   align-items: center;
   justify-content: center;
-  color: rgba(212,175,55,0.7);
+  color: var(--maroon);
   transition: var(--transition);
 }
 .footer-social a:hover {
-  background: var(--gold);
-  color: #1a1010;
-  border-color: var(--gold);
+  background: var(--maroon);
+  color: var(--brand-apricot-white);
+  border-color: var(--maroon);
 }
 .footer-social svg { width: 15px; height: 15px; fill: currentColor; }
 .footer-nav-col h4, .footer-contact-col h4 {
@@ -1516,7 +1516,7 @@ a:hover { color: var(--gold-light); }
 .footer-nav-col ul { display: flex; flex-direction: column; gap: 0.7rem; }
 .footer-nav-col a {
   font-size: 0.875rem;
-  color: rgba(250,247,242,0.55);
+  color: var(--brand-maroon);
   transition: var(--transition);
 }
 .footer-nav-col a:hover { color: var(--gold); padding-left: 0.25rem; }
@@ -1529,7 +1529,7 @@ a:hover { color: var(--gold-light); }
 .fc-icon { color: var(--gold); font-size: 0.85rem; flex-shrink: 0; margin-top: 0.2rem; }
 .footer-contact-col p, .footer-contact-col a {
   font-size: 0.875rem;
-  color: rgba(250,247,242,0.55);
+  color: var(--brand-maroon);
   margin: 0;
   line-height: 1.6;
 }
@@ -1542,10 +1542,10 @@ a:hover { color: var(--gold-light); }
   justify-content: center;
   text-align: center;
   gap: 0.4rem;
-  border-top: 1px solid rgba(255,255,255,0.07);
+  border-top: 1px solid rgba(98,6,33,0.2);
 }
-.footer-bottom p { font-size: 0.78rem; color: rgba(250,247,242,0.35); margin: 0; }
-.footer-bottom a { color: rgba(212,175,55,0.7); }
+.footer-bottom p { font-size: 0.78rem; color: var(--brand-maroon); margin: 0; }
+.footer-bottom a { color: var(--maroon); }
 .footer-bottom a:hover { color: var(--gold); }
 
 /* ===== 20. WHATSAPP FAB ===== */
