@@ -881,6 +881,15 @@ a:hover { color: var(--gold-light); }
 }
 .contact-right-box h3 { color: var(--white); margin-bottom: 1rem; }
 .contact-right-box p { margin-bottom: 2rem; color: rgba(250,247,242,0.88); }
+.contact-right-box .btn-outline-gold {
+  color: var(--white);
+  border-color: var(--white);
+}
+.contact-right-box .btn-outline-gold:hover {
+  background: var(--white);
+  color: var(--maroon);
+  border-color: var(--white);
+}
 
 /* ===== 13. ABOUT GURU PAGE ===== */
 .about-bio { padding: 6rem 0; background: var(--ivory); }
