@@ -361,9 +361,9 @@ a:hover { color: var(--gold-light); }
   inset: 0;
   background: linear-gradient(
     160deg,
-    rgba(58,3,20,0.84) 0%,
-    rgba(98,6,33,0.62) 45%,
-    rgba(58,3,20,0.9) 100%
+    rgba(255,255,255,0.75) 0%,
+    rgba(244,236,212,0.70) 45%,
+    rgba(255,255,255,0.80) 100%
   );
 }
 .hero-decorative {
@@ -378,7 +378,7 @@ a:hover { color: var(--gold-light); }
   position: relative;
   z-index: 2;
   text-align: center;
-  color: var(--ivory);
+  color: #620621;
   padding: 0 1.5rem;
   max-width: 860px;
 }
@@ -387,33 +387,33 @@ a:hover { color: var(--gold-light); }
   font-size: 0.7rem;
   letter-spacing: 0.45em;
   text-transform: uppercase;
-  color: var(--gold);
+  color: #620621;
   margin-bottom: 1.5rem;
   padding: 0.4rem 1.5rem;
-  border: 1px solid rgba(212,175,55,0.4);
+  border: 1px solid #620621;
 }
 .hero-title {
   font-family: var(--font-heading);
   font-size: clamp(2.4rem, 6vw, 4rem);
   font-weight: 700;
-  color: var(--ivory);
+  color: #620621;
   line-height: 1.12;
   margin-bottom: 0.75rem;
-  text-shadow: 0 2px 20px rgba(0,0,0,0.5);
+  text-shadow: none;
 }
 .hero-title span { color: var(--gold); display: block; }
 .hero-subtitle {
   font-family: var(--font-heading);
   font-style: italic;
   font-size: clamp(1rem, 2.5vw, 1.35rem);
-  color: rgba(250,247,242,0.82);
+  color: #620621;
   margin-bottom: 0.5rem;
 }
 .hero-tagline {
   font-size: 0.72rem;
   letter-spacing: 0.25em;
   text-transform: uppercase;
-  color: rgba(212,175,55,0.75);
+  color: #620621;
   margin-bottom: 3rem;
 }
 .hero-divider {
@@ -427,9 +427,9 @@ a:hover { color: var(--gold-light); }
   content: '';
   width: 60px;
   height: 1px;
-  background: rgba(212,175,55,0.5);
+  background: #620621;
 }
-.hero-divider-icon { color: var(--gold); font-size: 0.85rem; }
+.hero-divider-icon { color: #620621; font-size: 0.85rem; }
 .hero-cta { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
 .hero-bottom {
   position: absolute;
@@ -443,7 +443,7 @@ a:hover { color: var(--gold-light); }
   flex-direction: column;
   align-items: center;
   gap: 0.5rem;
-  color: rgba(212,175,55,0.6);
+  color: #620621;
   font-size: 0.65rem;
   letter-spacing: 0.3em;
   text-transform: uppercase;
@@ -452,8 +452,8 @@ a:hover { color: var(--gold-light); }
 .scroll-arrow {
   width: 20px;
   height: 20px;
-  border-right: 1px solid rgba(212,175,55,0.5);
-  border-bottom: 1px solid rgba(212,175,55,0.5);
+  border-right: 1px solid #620621;
+  border-bottom: 1px solid #620621;
   transform: rotate(45deg);
 }
 @keyframes scrollBounce {
