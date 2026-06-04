@@ -9,17 +9,24 @@
 
 /* ===== 1. CSS VARIABLES & RESET ===== */
 :root {
-  --maroon: #620621;
+  --brand-white: #FFFFFF;
+  --brand-apricot-white: #F4ECD4;
+  --brand-maroon: #620621;
+  --brand-black: #000000;
+  --brand-alizarin-red: #EC2027;
+  --brand-myrtle-green: #1D4221;
+
+  --maroon: var(--brand-maroon);
   --maroon-light: #7A1538;
   --maroon-dark: #3A0314;
-  --gold: #1D4221;
-  --gold-light: #EC2027;
-  --gold-dark: #620621;
-  --ivory: #FFFFFF;
-  --ivory-dark: #F4ECD4;
+  --gold: var(--brand-myrtle-green);
+  --gold-light: var(--brand-alizarin-red);
+  --gold-dark: var(--maroon);
+  --ivory: var(--brand-white);
+  --ivory-dark: var(--brand-apricot-white);
   --charcoal: #000000;
   --charcoal-light: #1A1A1A;
-  --white: #FFFFFF;
+  --white: var(--brand-white);
 
   --font-heading: 'Playfair Display', Georgia, serif;
   --font-body: 'Poppins', Arial, sans-serif;
