@@ -699,7 +699,7 @@ a:hover { color: var(--gold-light); }
 .guru-lineage-inline span {
   display: block;
   padding: 0.8rem 1rem;
-  border-left: 3px solid var(--gold);
+  border-left: 3px solid var(--brand-myrtle-green);
   background: var(--ivory-dark);
   color: var(--maroon);
   font-weight: 500;
@@ -753,7 +753,7 @@ a:hover { color: var(--gold-light); }
 .brand-tagline-text {
   font-family: var(--font-heading);
   font-size: 1.2rem;
-  color: var(--gold);
+  color: var(--brand-myrtle-green);
 }
 
 /* ===== 10. GALLERY HIGHLIGHTS (HOME) ===== */
