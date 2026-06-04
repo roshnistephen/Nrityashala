@@ -1455,7 +1455,7 @@ a:hover { color: var(--gold-light); }
 
 /* ===== 19. FOOTER ===== */
 .footer {
-  background: var(--brand-apricot-white);
+  background: #FFFFFF;
   color: var(--brand-maroon);
   padding: 5rem 0 0;
   position: relative;
@@ -1512,7 +1512,7 @@ a:hover { color: var(--gold-light); }
 }
 .footer-social a:hover {
   background: var(--maroon);
-  color: var(--brand-apricot-white);
+  color: #FFFFFF;
   border-color: var(--maroon);
 }
 .footer-social svg { width: 15px; height: 15px; fill: currentColor; }
