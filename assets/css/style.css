@@ -182,11 +182,11 @@ a:hover { color: var(--gold-light); }
 }
 .btn-outline-gold {
   background: transparent;
-  color: var(--white);
-  border: 1px solid rgba(255,255,255,0.7);
+  color: #620621;
+  border: 2px solid #620621;
 }
 .btn-outline-gold:hover {
-  background: var(--gold-light);
+  background: #620621;
   color: var(--white);
   transform: translateY(-2px);
 }
