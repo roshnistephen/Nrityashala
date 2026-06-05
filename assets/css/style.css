@@ -431,6 +431,7 @@ a:hover { color: var(--gold-light); }
 }
 .hero-divider-icon { color: #620621; font-size: 0.85rem; }
 .hero-cta { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+.cta-buttons { display: flex; gap: 1rem; justify-content: flex-start; flex-wrap: wrap; align-items: center; }
 .hero-bottom {
   position: absolute;
   bottom: 2.5rem;
@@ -1580,8 +1581,31 @@ a:hover { color: var(--gold-light); }
   border-top: 1px solid rgba(98,6,33,0.2);
 }
 .footer-bottom p { font-size: 0.78rem; color: var(--brand-maroon); margin: 0; }
-.footer-bottom a { color: var(--maroon); }
-.footer-bottom a:hover { color: var(--gold); }
+.footer-bottom a {
+  color: var(--maroon);
+  text-decoration: none;
+  position: relative;
+  font-weight: 500;
+  border-bottom: 1.5px solid transparent;
+  transition: border-color 0.3s ease, color 0.3s ease;
+  padding-bottom: 1px;
+}
+.footer-bottom a::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 1.5px;
+  background: var(--gold-light);
+  transition: width 0.3s ease;
+}
+.footer-bottom a:hover {
+  color: var(--gold-light);
+}
+.footer-bottom a:hover::after {
+  width: 100%;
+}
 
 /* ===== 20. WHATSAPP FAB ===== */
 .whatsapp-fab {
@@ -1733,10 +1757,12 @@ a:hover { color: var(--gold-light); }
     font-size: 0.8rem;
     border-radius: 0.75rem;
     background: rgba(255,255,255,0.02);
+    color: var(--ivory);
   }
   .nav-menu a:hover,
   .nav-menu a.active {
     background: rgba(212,175,55,0.12);
+    color: var(--gold-light);
   }
   .nav-menu a::after { display: none; }
   .odissi-section::before { width: 120%; left: -10%; }
@@ -1763,6 +1789,10 @@ a:hover { color: var(--gold-light); }
   .hero-title { font-size: 2.5rem; }
   .lightbox-prev { left: 0.5rem; }
   .lightbox-next { right: 0.5rem; }
+  .hero-cta { justify-content: center; }
+  .hero-cta .btn { width: auto; max-width: 280px; }
+  .cta-buttons { flex-direction: column; align-items: stretch; }
+  .cta-buttons .btn { width: 100%; text-align: center; }
   .social-btns { flex-direction: column; }
 }
 @media (max-width: 480px) {
@@ -1777,6 +1807,9 @@ a:hover { color: var(--gold-light); }
   .welcome-stats { grid-template-columns: 1fr; }
   .about-highlights { grid-template-columns: 1fr; }
   .hero-cta { flex-direction: column; align-items: center; }
+  .hero-cta .btn { width: 100%; text-align: center; max-width: 280px; }
+  .cta-buttons { flex-direction: column; align-items: stretch; }
+  .cta-buttons .btn { width: 100%; text-align: center; }
   .schedule-row { flex-direction: column; gap: 0.25rem; }
   .contact-right-box { padding: 1.5rem; }
   .btn { padding: 0.75rem 1.75rem; font-size: 0.7rem; }
