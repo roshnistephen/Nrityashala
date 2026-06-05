@@ -361,9 +361,9 @@ a:hover { color: var(--gold-light); }
   inset: 0;
   background: linear-gradient(
     160deg,
-    rgba(255,255,255,0.75) 0%,
-    rgba(244,236,212,0.70) 45%,
-    rgba(255,255,255,0.80) 100%
+    rgba(0,0,0,0.65) 0%,
+    rgba(0,0,0,0.60) 45%,
+    rgba(0,0,0,0.70) 100%
   );
 }
 .hero-decorative {
@@ -378,7 +378,7 @@ a:hover { color: var(--gold-light); }
   position: relative;
   z-index: 2;
   text-align: center;
-  color: #620621;
+  color: #FFFFFF;
   padding: 0 1.5rem;
   max-width: 860px;
 }
@@ -387,33 +387,40 @@ a:hover { color: var(--gold-light); }
   font-size: 0.7rem;
   letter-spacing: 0.45em;
   text-transform: uppercase;
-  color: #620621;
+  color: #FFFFFF;
   margin-bottom: 1.5rem;
   padding: 0.4rem 1.5rem;
-  border: 1px solid #620621;
+  border: 1px solid #FFFFFF;
 }
 .hero-title {
   font-family: var(--font-heading);
   font-size: clamp(2.4rem, 6vw, 4rem);
   font-weight: 700;
-  color: #620621;
+  color: #FFFFFF;
   line-height: 1.12;
   margin-bottom: 0.75rem;
   text-shadow: none;
 }
-.hero-title span { color: var(--gold); display: block; }
+.hero-title span {
+  color: var(--brand-alizarin-red);
+  display: block;
+  font-size: 0.55em;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  margin-top: 0.3rem;
+}
 .hero-subtitle {
   font-family: var(--font-heading);
   font-style: italic;
   font-size: clamp(1rem, 2.5vw, 1.35rem);
-  color: #620621;
+  color: #FFFFFF;
   margin-bottom: 0.5rem;
 }
 .hero-tagline {
   font-size: 0.72rem;
   letter-spacing: 0.25em;
   text-transform: uppercase;
-  color: #620621;
+  color: #FFFFFF;
   margin-bottom: 3rem;
 }
 .hero-divider {
@@ -427,10 +434,31 @@ a:hover { color: var(--gold-light); }
   content: '';
   width: 60px;
   height: 1px;
-  background: #620621;
+  background: #FFFFFF;
 }
-.hero-divider-icon { color: #620621; font-size: 0.85rem; }
+.hero-divider-icon { color: #FFFFFF; font-size: 0.85rem; }
 .hero-cta { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+.hero-cta .btn-gold {
+  background: var(--brand-alizarin-red);
+  color: var(--white);
+  border: 1px solid var(--brand-alizarin-red);
+}
+.hero-cta .btn-gold:hover {
+  background: var(--brand-white);
+  color: var(--brand-alizarin-red);
+  box-shadow: 0 4px 20px rgba(255,255,255,0.3);
+  transform: translateY(-2px);
+}
+.hero-cta .btn-outline-gold {
+  background: transparent;
+  color: var(--brand-white);
+  border: 2px solid var(--brand-white);
+}
+.hero-cta .btn-outline-gold:hover {
+  background: var(--brand-white);
+  color: var(--brand-alizarin-red);
+  transform: translateY(-2px);
+}
 .cta-buttons { display: flex; gap: 1rem; justify-content: flex-start; flex-wrap: wrap; align-items: center; }
 .hero-bottom {
   position: absolute;
