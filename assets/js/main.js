@@ -221,4 +221,24 @@
     });
   });
 
+  // ===== Read More Toggle =====
+  document.querySelectorAll('.read-more-btn').forEach(function (btn) {
+    var targetId = btn.getAttribute('data-target');
+    var content = document.getElementById(targetId);
+    if (!content) return;
+
+    btn.addEventListener('click', function () {
+      var isExpanded = content.classList.toggle('expanded');
+      btn.classList.toggle('expanded', isExpanded);
+      btn.setAttribute('aria-expanded', isExpanded ? 'true' : 'false');
+      var textEl = btn.querySelector('.rmb-text');
+      if (textEl) textEl.textContent = isExpanded ? 'Read Less' : 'Read More';
+      if (isExpanded) {
+        content.querySelectorAll('.fade-in, .fade-in-left, .fade-in-right').forEach(function (el) {
+          el.classList.add('visible');
+        });
+      }
+    });
+  });
+
 })();
