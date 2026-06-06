@@ -1,0 +1,320 @@
+- generic [active] [ref=e1]:
+  - navigation "Main navigation" [ref=e2]:
+    - generic [ref=e4]:
+      - link "Nrityashala Home" [ref=e5] [cursor=pointer]:
+        - /url: index.html
+        - img "Nrityashala - School of Odissi Dance logo and wordmark" [ref=e6]
+        - generic [ref=e7]: Nrityashala School of Odissi Dance
+      - menubar [ref=e8]:
+        - menuitem "Home" [ref=e9] [cursor=pointer]
+        - menuitem "About Guru" [ref=e10] [cursor=pointer]
+        - menuitem "Classes" [ref=e11] [cursor=pointer]
+        - menuitem "Gallery" [ref=e12] [cursor=pointer]
+        - menuitem "Events" [ref=e13] [cursor=pointer]
+        - menuitem "Contact" [ref=e14] [cursor=pointer]
+  - region "Welcome banner" [ref=e15]:
+    - img "Smt. Preeti Mohapatra performing Odissi" [ref=e16]
+    - generic [ref=e18]:
+      - generic [ref=e19]: Since 2009 · Hyderabad
+      - heading "Nrityashala School of Odissi Dance" [level=1] [ref=e20]:
+        - text: Nrityashala
+        - generic [ref=e21]: School of Odissi Dance
+      - paragraph [ref=e22]: Under the Guidance of Smt. Preeti Mohapatra
+      - generic [ref=e24]: ❋
+      - paragraph [ref=e25]: Disciple of Padma Vibhushan Guru Kelucharan Mohapatra
+      - generic [ref=e26]:
+        - link "Enroll Now" [ref=e27] [cursor=pointer]:
+          - /url: classes.html
+        - link "Meet the Guru" [ref=e28] [cursor=pointer]:
+          - /url: about.html
+    - generic [ref=e31]: Scroll
+  - region "A Sacred Space for Classical Dance" [ref=e33]:
+    - generic [ref=e35]:
+      - generic [ref=e36]:
+        - generic [ref=e37]: Welcome
+        - heading "A Sacred Space for Classical Dance" [level=2] [ref=e38]
+        - generic [ref=e40]: ✦
+        - paragraph [ref=e41]: Nrityashala is a revered institution dedicated to the authentic transmission of Odissi—one of India's oldest and most exquisite classical dance forms. Rooted in the temple traditions of Odisha, Odissi carries within it centuries of devotion, grace, and artistic mastery.
+        - paragraph [ref=e42]: Under the expert guidance of Smt. Preeti Mohapatra, students embark on a transformative journey into the world of classical dance—learning not just technique, but the philosophy, spirituality, and cultural heritage that breathe life into every movement.
+        - generic [ref=e43]:
+          - heading "Our Values" [level=3] [ref=e44]
+          - paragraph [ref=e45]: At Nrityashala, we value artistic excellence, cultural preservation, discipline, and holistic growth. We foster a deep connection between tradition and personal expression, helping students grow both as dancers and individuals.
+        - generic [ref=e46]:
+          - heading "Our Beliefs" [level=3] [ref=e47]
+          - paragraph [ref=e48]: We believe dance is a transformative journey of discipline, storytelling, and heritage. Through Odissi, students develop grace, confidence, cultural appreciation, and a lifelong connection to the art form.
+        - link "Explore Classes" [ref=e49] [cursor=pointer]:
+          - /url: classes.html
+        - generic [ref=e50]:
+          - generic [ref=e51]:
+            - generic [ref=e52]: 40+
+            - generic [ref=e53]: Years of Art
+          - generic [ref=e54]:
+            - generic [ref=e55]: 25+
+            - generic [ref=e56]: Years Teaching
+          - generic [ref=e57]:
+            - generic [ref=e58]: 15+
+            - generic [ref=e59]: Years at Nrityashala
+      - generic [ref=e61]:
+        - img "Smt. Preeti Mohapatra – Odissi Guru" [ref=e62]
+        - generic [ref=e63]: Smt. Preeti Mohapatra · Odissi Exponent
+  - region "The Grace of Odissi" [ref=e64]:
+    - generic [ref=e66]:
+      - generic [ref=e67]: The Art Form
+      - heading "The Grace of Odissi" [level=2] [ref=e68]
+      - generic [ref=e70]: ✦
+      - paragraph [ref=e71]:
+        - text: Odissi is one of the oldest surviving dance forms of India, originating from the sacred temples of Odisha. Distinguished by its lyrical grace, sensuous movements, and deeply spiritual expression, Odissi is built upon the
+        - emphasis [ref=e72]: tribhangi
+        - text: — the three-point deflection of the body representing the divine beauty of Lord Jagannath.
+      - paragraph [ref=e73]: Every gesture, every glance, every footstep in Odissi is a prayer — a conversation between the dancer and the divine. It is an art that transcends performance and becomes a meditative offering.
+  - region "Smt. Preeti Mohapatra" [ref=e74]:
+    - generic [ref=e76]:
+      - img "Smt. Preeti Mohapatra – Odissi Guru and Performer" [ref=e78]
+      - generic [ref=e79]:
+        - generic [ref=e80]: About the Guru
+        - heading "Smt. Preeti Mohapatra" [level=2] [ref=e81]
+        - heading "Disciple of Two Revered Gurus" [level=3] [ref=e82]
+        - generic [ref=e84]: ✦
+        - paragraph [ref=e85]: Mrs. Preeti Mohapatra, an accomplished Odissi exponent, stands among the disciples of the legendary Padma Vibhushan Guru Sri Kelucharan Mohapatra and Guru Sri Naba Kishore Mishra. A recipient of the National Scholarship for both Odissi and Chhau, she embodies the true essence of India's classical dance heritage.
+        - paragraph [ref=e86]: Over a 40-year artistic journey, including 25 years as a dedicated Odissi guru, she has carved a niche as both a performer of exceptional grace and a teacher of rare depth. A graded artist of Doordarshan, Bhubaneswar, she has performed at prestigious stages across India.
+        - generic [ref=e87]:
+          - generic [ref=e88]: Padma Vibhushan Guru Kelucharan Mohapatra
+          - generic [ref=e89]: Guru Shri Naba Kishore Mishra
+        - generic [ref=e90]:
+          - heading "Distinctions & Recognition" [level=5] [ref=e91]
+          - generic [ref=e92]: ✦ National Scholarship — Odissi & Chhau Dance
+          - generic [ref=e93]: ✦ Sangit Prabhakar, Prayag Sangit Samiti, Prayagraj
+          - generic [ref=e94]: ✦ Graded Artist — Doordarshan, Bhubaneswar
+          - generic [ref=e95]: ✦ "Natya Thoranam" Award — Amrita Cultural Trust, Hyderabad
+        - link "Read Full Biography" [ref=e96] [cursor=pointer]:
+          - /url: about.html
+  - region "Moments of Grace" [ref=e97]:
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - generic [ref=e100]: Glimpses
+        - heading "Moments of Grace" [level=2] [ref=e101]
+        - generic [ref=e103]: ✦
+      - generic [ref=e104]:
+        - generic [ref=e105] [cursor=pointer]:
+          - img "Odissi performance" [ref=e106]
+          - generic [ref=e108]: ⊕
+        - generic [ref=e109] [cursor=pointer]:
+          - img "Odissi dance performance" [ref=e110]
+          - generic [ref=e112]: ⊕
+        - generic [ref=e113] [cursor=pointer]:
+          - img "Odissi dance" [ref=e114]
+          - generic [ref=e116]: ⊕
+        - generic [ref=e117] [cursor=pointer]:
+          - img "Nrityashala students" [ref=e118]
+          - generic [ref=e120]: ⊕
+        - generic [ref=e121] [cursor=pointer]:
+          - img "Odissi recital" [ref=e122]
+          - generic [ref=e124]: ⊕
+      - link "View Full Gallery" [ref=e126] [cursor=pointer]:
+        - /url: gallery.html
+  - region "What Our Community Says" [ref=e127]:
+    - generic [ref=e128]:
+      - generic [ref=e129]:
+        - generic [ref=e130]: Student & Parent Reviews
+        - heading "What Our Community Says" [level=2] [ref=e131]
+        - generic [ref=e133]: ✦
+        - generic "Overall Google rating 5 out of 5" [ref=e134]:
+          - generic [ref=e135]:
+            - img [ref=e136]
+            - generic [ref=e141]: Google
+          - generic [ref=e142]:
+            - generic [ref=e143]: "5.0"
+            - generic [ref=e144]:
+              - generic [ref=e145]: ★
+              - generic [ref=e146]: ★
+              - generic [ref=e147]: ★
+              - generic [ref=e148]: ★
+              - generic [ref=e149]: ★
+            - generic [ref=e150]: Based on Google Reviews
+      - generic [ref=e151]:
+        - article [ref=e152]:
+          - generic [ref=e153]:
+            - generic [ref=e154]: R
+            - generic [ref=e155]:
+              - paragraph [ref=e156]: Roshni Stephen
+              - paragraph [ref=e157]: Student
+            - generic "Google Review" [ref=e158]:
+              - img [ref=e159]
+          - generic "5 out of 5 stars" [ref=e164]:
+            - generic [ref=e165]: ★
+            - generic [ref=e166]: ★
+            - generic [ref=e167]: ★
+            - generic [ref=e168]: ★
+            - generic [ref=e169]: ★
+          - paragraph [ref=e170]: Learning Odissi under Preeti Mohapatra ma'am is a wonderful experience. She is very dedicated and teaches with great patience. Me and my daughter love attending her classes. Highly recommended!
+        - article [ref=e171]:
+          - generic [ref=e172]:
+            - generic [ref=e173]: "N"
+            - generic [ref=e174]:
+              - paragraph [ref=e175]: Narmadarani Maharana
+              - paragraph [ref=e176]: Student
+            - generic "Google Review" [ref=e177]:
+              - img [ref=e178]
+          - generic "5 out of 5 stars" [ref=e183]:
+            - generic [ref=e184]: ★
+            - generic [ref=e185]: ★
+            - generic [ref=e186]: ★
+            - generic [ref=e187]: ★
+            - generic [ref=e188]: ★
+          - paragraph [ref=e189]: Excellent, I am so happy with guru Preeti Mohapatra maam. She is a wonderful teacher who inspires her students to dance with grace and devotion. She teaches each step with patience and helps to understand the beauty and meaning behind every movement. I feel lucky to have such a talented and dedicated Guru who keeps the spirit of Odissi alive.
+        - article [ref=e190]:
+          - generic [ref=e191]:
+            - generic [ref=e192]: P
+            - generic [ref=e193]:
+              - paragraph [ref=e194]: Pallavi Priyadarshini
+              - paragraph [ref=e195]: Student
+            - generic "Google Review" [ref=e196]:
+              - img [ref=e197]
+          - generic "5 out of 5 stars" [ref=e202]:
+            - generic [ref=e203]: ★
+            - generic [ref=e204]: ★
+            - generic [ref=e205]: ★
+            - generic [ref=e206]: ★
+            - generic [ref=e207]: ★
+          - paragraph [ref=e208]: Learning Odissi under Guru Preeti Mohapatra has been a truly enriching experience. Her deep knowledge, graceful teaching style, and patient guidance make every class inspiring. She not only teaches technique but also instills the essence of devotion and discipline that Odissi embodies. I am much grateful to get guidance under her.
+        - article [ref=e209]:
+          - generic [ref=e210]:
+            - generic [ref=e211]: C
+            - generic [ref=e212]:
+              - paragraph [ref=e213]: Chandrani Ghosh
+              - paragraph [ref=e214]: Student
+            - generic "Google Review" [ref=e215]:
+              - img [ref=e216]
+          - generic "5 out of 5 stars" [ref=e221]:
+            - generic [ref=e222]: ★
+            - generic [ref=e223]: ★
+            - generic [ref=e224]: ★
+            - generic [ref=e225]: ★
+            - generic [ref=e226]: ★
+          - paragraph [ref=e227]: It has been five months since I began learning Odissi at Nrityashala, and the journey has been truly wonderful. Preeti Ma'am is not only an exceptional Guru but also a wonderful person. She teaches every step with immense patience, care, and dedication, making the learning experience both inspiring and enjoyable. Nrityashala is truly an excellent place to learn Odissi under her guidance.
+        - article [ref=e228]:
+          - generic [ref=e229]:
+            - generic [ref=e230]: S
+            - generic [ref=e231]:
+              - paragraph [ref=e232]: Sanghamitra Chatterjee
+              - paragraph [ref=e233]: Parent
+            - generic "Google Review" [ref=e234]:
+              - img [ref=e235]
+          - generic "5 out of 5 stars" [ref=e240]:
+            - generic [ref=e241]: ★
+            - generic [ref=e242]: ★
+            - generic [ref=e243]: ★
+            - generic [ref=e244]: ★
+            - generic [ref=e245]: ★
+          - paragraph [ref=e246]: My daughter had been part of Nrityashala for seven years and I couldn't be any more happier with her growth. Guru Smt Preeti Mohapatra is herself an extremely talented dancer and a very dedicated and caring mentor too. Preeti Mam's understanding of the Odissi is what encouraging her students to dedicate themselves in their own learning. My daughter has participated in several stage performances with her guidance and supervision, each one beautifully organized and executed. We are truly grateful for the guidance and support she receives here.
+        - article [ref=e247]:
+          - generic [ref=e248]:
+            - generic [ref=e249]: I
+            - generic [ref=e250]:
+              - paragraph [ref=e251]: Ipsita Mohanty
+              - paragraph [ref=e252]: Parent
+            - generic "Google Review" [ref=e253]:
+              - img [ref=e254]
+          - generic "5 out of 5 stars" [ref=e259]:
+            - generic [ref=e260]: ★
+            - generic [ref=e261]: ★
+            - generic [ref=e262]: ★
+            - generic [ref=e263]: ★
+            - generic [ref=e264]: ★
+          - paragraph [ref=e265]: Nrityashala Dance Academy has such a positive and welcoming atmosphere that my daughter truly enjoys. Being there and learning every day feels like a second home for young dancers. Guru Smt. Preeti Mohapatra is caring, patient, and very encouraging with all her students. She always motivates them to improve and supports them at every step of their journey. With Preeti Ma'am's guidance, our daughter has become more confident and has developed a deep interest and love for Odissi. We are truly thankful to have such a wonderful Guru teaching and inspiring her.
+  - region "Begin Your Dance Journey" [ref=e266]:
+    - generic [ref=e268]:
+      - generic [ref=e269]:
+        - generic [ref=e270]: Get in Touch
+        - heading "Begin Your Dance Journey" [level=2] [ref=e271]
+        - generic [ref=e273]: ✦
+        - paragraph [ref=e274]: We welcome students of all ages from 6 years and above. Classes are held on weekends and weekdays at our Kondapur and Manikonda centres. Online classes are also available for outstation students.
+        - generic [ref=e275]:
+          - generic [ref=e276]:
+            - generic [ref=e277]: 📞
+            - link "+91 9908 995 550" [ref=e278] [cursor=pointer]:
+              - /url: tel:+919908995550
+          - generic [ref=e279]:
+            - generic [ref=e280]: ✉
+            - link "preetimohapatra12@gmail.com" [ref=e281] [cursor=pointer]:
+              - /url: mailto:preetimohapatra12@gmail.com
+          - generic [ref=e282]:
+            - generic [ref=e283]: 📍
+            - generic [ref=e284]: Kondapur & Manikonda, Hyderabad
+      - generic [ref=e285]:
+        - heading "Admissions Open" [level=3] [ref=e286]
+        - paragraph [ref=e287]: Join the Nrityashala family and immerse yourself in the timeless beauty of Odissi dance.
+        - link "Contact Us" [ref=e288] [cursor=pointer]:
+          - /url: contact.html
+        - link "WhatsApp Us" [ref=e289] [cursor=pointer]:
+          - /url: https://wa.me/919908995550
+  - contentinfo [ref=e290]:
+    - generic [ref=e291]:
+      - generic [ref=e292]:
+        - generic [ref=e293]:
+          - img "Nrityashala - School of Odissi Dance logo and wordmark" [ref=e294]
+          - heading "Nrityashala" [level=3] [ref=e295]
+          - paragraph [ref=e296]: School of Odissi Dance
+          - paragraph [ref=e297]: Authentic classical Odissi training under the guidance of Smt. Preeti Mohapatra in Hyderabad since 2009.
+          - generic [ref=e298]:
+            - link "Instagram" [ref=e299] [cursor=pointer]:
+              - /url: https://www.instagram.com/nrityashala_hyd
+              - img [ref=e300]
+            - link "Facebook" [ref=e302] [cursor=pointer]:
+              - /url: https://www.facebook.com/nrityashalaodissidance/
+              - img [ref=e303]
+        - generic [ref=e305]:
+          - heading "Quick Links" [level=4] [ref=e306]
+          - list [ref=e307]:
+            - listitem [ref=e308]:
+              - link "Home" [ref=e309] [cursor=pointer]:
+                - /url: index.html
+            - listitem [ref=e310]:
+              - link "About Guru" [ref=e311] [cursor=pointer]:
+                - /url: about.html
+            - listitem [ref=e312]:
+              - link "Classes" [ref=e313] [cursor=pointer]:
+                - /url: classes.html
+            - listitem [ref=e314]:
+              - link "Gallery" [ref=e315] [cursor=pointer]:
+                - /url: gallery.html
+            - listitem [ref=e316]:
+              - link "Events" [ref=e317] [cursor=pointer]:
+                - /url: events.html
+            - listitem [ref=e318]:
+              - link "Contact" [ref=e319] [cursor=pointer]:
+                - /url: contact.html
+        - generic [ref=e320]:
+          - heading "Get in Touch" [level=4] [ref=e321]
+          - generic [ref=e322]:
+            - generic [ref=e323]: 📞
+            - link "+91 9908 995 550" [ref=e324] [cursor=pointer]:
+              - /url: tel:+919908995550
+          - generic [ref=e325]:
+            - generic [ref=e326]: ✉
+            - link "preetimohapatra12@gmail.com" [ref=e327] [cursor=pointer]:
+              - /url: mailto:preetimohapatra12@gmail.com
+          - generic [ref=e328]:
+            - generic [ref=e329]: 📍
+            - paragraph [ref=e330]:
+              - text: Kondapur & Manikonda,
+              - text: Hyderabad, Telangana
+      - generic [ref=e331]:
+        - paragraph [ref=e332]:
+          - text: Designed & Developed by
+          - link "Roshni Stephen" [ref=e333] [cursor=pointer]:
+            - /url: https://rs.lokaai.in/
+          - text: "| Powered by"
+          - link "Loka AI" [ref=e334] [cursor=pointer]:
+            - /url: https://lokaai.in/
+        - paragraph [ref=e335]: © 2026 Nrityashala – School of Odissi Dance. All Rights Reserved.
+  - link "Chat on WhatsApp" [ref=e336] [cursor=pointer]:
+    - /url: https://wa.me/919908995550
+    - generic [ref=e337]:
+      - img [ref=e338]
+      - generic [ref=e340]: Chat with us
+  - dialog "Image viewer":
+    - button "Close image viewer": ✕
+    - button "Previous image": ‹
+    - img "Gallery image"
+    - button "Next image": ›

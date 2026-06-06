@@ -102,7 +102,7 @@ a:hover { color: var(--gold-light); }
 .section-dark h1,.section-dark h2,.section-dark h3,.section-dark h4 { color: var(--gold); }
 .section-dark p { color: rgba(250,247,242,0.82); }
 
-.section-header { text-align: center; margin-bottom: 4rem; }
+.section-header { text-align: center; margin-bottom: 2rem; }
 .section-header h2 { margin-bottom: 0.5rem; }
 
 .section-subtitle {
@@ -496,7 +496,7 @@ a:hover { color: var(--gold-light); }
 /* ===== 6. PAGE HEADER ===== */
 .page-header {
   padding-top: calc(var(--nav-height) + 2rem);
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   background: var(--ivory);
   text-align: center;
   position: relative;
@@ -1107,7 +1107,7 @@ a:hover { color: var(--gold-light); }
 .guru-img-item:hover .guru-img-overlay { opacity: 1; }
 
 /* ===== 14. CLASSES PAGE ===== */
-.classes-intro { padding: 3.5rem 0 4rem; background: var(--ivory); }
+.classes-intro { padding: 2.5rem 0 3.5rem; background: var(--ivory); }
 .classes-intro .section-header { margin-bottom: 0; }
 .dance-info-grid {
   display: grid;
@@ -1172,7 +1172,7 @@ a:hover { color: var(--gold-light); }
   border: var(--border-gold);
 }
 
-.schedule-section { padding: 4.5rem 0; background: var(--ivory-dark); }
+.schedule-section { padding: 3rem 0; background: var(--ivory-dark); }
 .schedule-cards {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -1218,7 +1218,7 @@ a:hover { color: var(--gold-light); }
 }
 .sch-value { font-size: 0.9rem; color: var(--charcoal); }
 
-.mode-section { padding: 4.5rem 0; background: var(--maroon); }
+.mode-section { padding: 3rem 0; background: var(--maroon); }
 .mode-cards {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -1264,10 +1264,10 @@ a:hover { color: var(--gold-light); }
 .mode-card h3 { color: var(--white); margin-bottom: 1rem; }
 .mode-card p { color: rgba(250,247,242,0.78); font-size: 0.9rem; }
 
-.enroll-section { padding: 4rem 0; background: var(--ivory); text-align: center; }
+.enroll-section { padding: 3rem 0; background: var(--ivory); text-align: center; }
 
 /* ===== 15. GALLERY PAGE ===== */
-.gallery-page { padding: 5rem 0; background: var(--ivory); }
+.gallery-page { padding: 1.5rem 0; background: var(--ivory); }
 .masonry-grid {
   columns: 4;
   column-gap: 0.75rem;
@@ -1363,7 +1363,7 @@ a:hover { color: var(--gold-light); }
 }
 
 /* ===== 17. EVENTS PAGE ===== */
-.events-page { padding: 5rem 0; background: var(--ivory); }
+.events-page { padding: 2.5rem 0; background: var(--ivory); }
 .events-category { margin-bottom: 5rem; }
 .events-category:last-child { margin-bottom: 0; }
 .events-category-header {
@@ -2210,24 +2210,26 @@ a:hover { color: var(--gold-light); }
   align-items: center;
   gap: 0.5rem;
   font-family: var(--font-body);
-  font-size: 0.78rem;
-  font-weight: 600;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+  font-size: 0.95rem;
+  font-weight: 500;
+  letter-spacing: 0;
+  text-transform: none;
   color: var(--maroon);
   background: transparent;
-  border: 1.5px solid var(--maroon);
-  padding: 0.65rem 1.75rem;
-  border-radius: var(--radius-btn);
+  border: none;
+  padding: 0.25rem 0;
+  border-radius: 0;
   cursor: pointer;
   transition: var(--transition);
   margin-top: 1.25rem;
+  border-bottom: 1px solid transparent;
 }
 .read-more-btn:hover {
-  background: var(--maroon);
-  color: var(--white);
-  transform: translateY(-2px);
-  box-shadow: var(--shadow);
+  background: transparent;
+  color: var(--gold-light);
+  transform: none;
+  box-shadow: none;
+  border-bottom-color: var(--gold-light);
 }
 .read-more-btn .rmb-icon {
   display: inline-block;
@@ -2242,10 +2244,11 @@ a:hover { color: var(--gold-light); }
 .section-dark .read-more-btn,
 .mode-section .read-more-btn {
   color: var(--ivory);
-  border-color: rgba(244,236,212,0.6);
+  border-color: transparent;
 }
 .section-dark .read-more-btn:hover,
 .mode-section .read-more-btn:hover {
-  background: rgba(244,236,212,0.15);
-  color: var(--ivory);
+  background: transparent;
+  color: var(--ivory-dark);
+  border-bottom-color: var(--ivory-dark);
 }

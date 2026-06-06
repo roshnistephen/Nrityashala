@@ -1,0 +1,173 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e4]:
+      - link "Nrityashala - School of Odissi Dance logo and wordmark Nrityashala School of Odissi Dance" [ref=e5] [cursor=pointer]:
+        - /url: index.html
+        - img "Nrityashala - School of Odissi Dance logo and wordmark" [ref=e6]
+        - generic [ref=e7]: Nrityashala School of Odissi Dance
+      - list [ref=e8]:
+        - listitem [ref=e9]:
+          - link "Home" [ref=e10] [cursor=pointer]:
+            - /url: index.html
+        - listitem [ref=e11]:
+          - link "About Guru" [ref=e12] [cursor=pointer]:
+            - /url: about.html
+        - listitem [ref=e13]:
+          - link "Classes" [ref=e14] [cursor=pointer]:
+            - /url: classes.html
+        - listitem [ref=e15]:
+          - link "Gallery" [ref=e16] [cursor=pointer]:
+            - /url: gallery.html
+        - listitem [ref=e17]:
+          - link "Events" [ref=e18] [cursor=pointer]:
+            - /url: events.html
+        - listitem [ref=e19]:
+          - link "Contact" [ref=e20] [cursor=pointer]:
+            - /url: contact.html
+  - banner [ref=e21]:
+    - generic [ref=e22]:
+      - heading "Contact Us" [level=1] [ref=e23]
+      - generic [ref=e25]: ✦
+  - generic [ref=e28]:
+    - generic [ref=e29]:
+      - generic [ref=e30]: Get in Touch
+      - heading "We'd Love to Hear from You" [level=3] [ref=e31]
+      - generic [ref=e34]: ✦
+      - paragraph [ref=e36]: Whether you'd like to enroll, ask about our classes, or connect with us for cultural programmes and collaborations — we welcome your message.
+      - generic [ref=e37]:
+        - generic [ref=e38]:
+          - img [ref=e40]
+          - generic [ref=e42]:
+            - heading "Phone" [level=5] [ref=e43]
+            - link "+91 9908 995 550" [ref=e44] [cursor=pointer]:
+              - /url: tel:+919908995550
+        - generic [ref=e45]:
+          - img [ref=e47]
+          - generic [ref=e49]:
+            - heading "WhatsApp" [level=5] [ref=e50]
+            - link "+91 9908 995 550" [ref=e51] [cursor=pointer]:
+              - /url: https://wa.me/919908995550
+        - generic [ref=e52]:
+          - img [ref=e54]
+          - generic [ref=e57]:
+            - heading "Email" [level=5] [ref=e58]
+            - link "preetimohapatra12@gmail.com" [ref=e59] [cursor=pointer]:
+              - /url: mailto:preetimohapatra12@gmail.com
+        - generic [ref=e60]:
+          - img [ref=e62]
+          - generic [ref=e65]:
+            - heading "Address" [level=5] [ref=e66]
+            - paragraph [ref=e67]:
+              - text: Golden Habitat, BP Raju Marg, Kondapur,
+              - text: Venkat Enclave, Whitefields,
+              - text: Kondapur, Hyderabad, Telangana 500084
+        - generic [ref=e68]:
+          - img [ref=e70]
+          - generic [ref=e73]:
+            - heading "Class Timings" [level=5] [ref=e74]
+            - paragraph [ref=e75]:
+              - text: "Sat & Sun: 4:00 – 6:00 PM (Kondapur)"
+              - text: "Tue & Thu: 5:00 – 7:00 PM (Manikonda)"
+      - generic [ref=e76]:
+        - heading "Follow Us" [level=5] [ref=e77]
+        - generic [ref=e78]:
+          - link "Instagram" [ref=e79] [cursor=pointer]:
+            - /url: https://www.instagram.com/nrityashala_hyd
+            - img [ref=e80]
+            - text: Instagram
+          - link "Facebook" [ref=e82] [cursor=pointer]:
+            - /url: https://www.facebook.com/nrityashalaodissidance/
+            - img [ref=e83]
+            - text: Facebook
+    - generic [ref=e85]:
+      - generic [ref=e86]: Find Us
+      - heading "Our Location" [level=3] [ref=e87]
+      - paragraph [ref=e88]: Nrityashala is conveniently located in the heart of Kondapur, Hyderabad — easily accessible from Gachibowli, HITEC City, and surrounding neighbourhoods.
+      - generic [ref=e89]:
+        - generic [ref=e90]:
+          - heading "Kondapur Centre" [level=5] [ref=e91]
+          - paragraph [ref=e92]: Sat & Sun · 4:00–6:00 PM
+          - paragraph [ref=e93]: Golden Habitat, BP Raju Marg, Kondapur
+        - generic [ref=e94]:
+          - heading "Manikonda Centre" [level=5] [ref=e95]
+          - paragraph [ref=e96]: Tue & Thu · 5:00–7:00 PM
+          - paragraph [ref=e97]: Manikonda, Hyderabad
+      - generic [ref=e98]:
+        - link "WhatsApp Us" [ref=e99] [cursor=pointer]:
+          - /url: https://wa.me/919908995550
+        - link "Call Now" [ref=e100] [cursor=pointer]:
+          - /url: tel:+919908995550
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - generic [ref=e103]: 📍
+          - generic [ref=e104]: Golden Habitat, BP Raju Marg, Kondapur, Hyderabad – 500084
+        - iframe [ref=e105]:
+          - link "Open in Maps (opens in new tab)" [ref=f3e4] [cursor=pointer]:
+            - /url: about:invalid#zClosurez
+            - text: Open in Maps
+            - img [ref=f3e6]
+  - contentinfo [ref=e106]:
+    - generic [ref=e107]:
+      - generic [ref=e108]:
+        - generic [ref=e109]:
+          - img "Nrityashala - School of Odissi Dance logo and wordmark" [ref=e110]
+          - heading "Nrityashala" [level=3] [ref=e111]
+          - paragraph [ref=e112]: School of Odissi Dance
+          - paragraph [ref=e113]: Authentic classical Odissi training under the guidance of Smt. Preeti Mohapatra in Hyderabad since 2009.
+          - generic [ref=e114]:
+            - link "Instagram" [ref=e115] [cursor=pointer]:
+              - /url: https://www.instagram.com/nrityashala_hyd
+              - img [ref=e116]
+            - link "Facebook" [ref=e118] [cursor=pointer]:
+              - /url: https://www.facebook.com/nrityashalaodissidance/
+              - img [ref=e119]
+        - generic [ref=e121]:
+          - heading "Quick Links" [level=4] [ref=e122]
+          - list [ref=e123]:
+            - listitem [ref=e124]:
+              - link "Home" [ref=e125] [cursor=pointer]:
+                - /url: index.html
+            - listitem [ref=e126]:
+              - link "About Guru" [ref=e127] [cursor=pointer]:
+                - /url: about.html
+            - listitem [ref=e128]:
+              - link "Classes" [ref=e129] [cursor=pointer]:
+                - /url: classes.html
+            - listitem [ref=e130]:
+              - link "Gallery" [ref=e131] [cursor=pointer]:
+                - /url: gallery.html
+            - listitem [ref=e132]:
+              - link "Events" [ref=e133] [cursor=pointer]:
+                - /url: events.html
+            - listitem [ref=e134]:
+              - link "Contact" [ref=e135] [cursor=pointer]:
+                - /url: contact.html
+        - generic [ref=e136]:
+          - heading "Get in Touch" [level=4] [ref=e137]
+          - generic [ref=e138]:
+            - generic [ref=e139]: 📞
+            - link "+91 9908 995 550" [ref=e140] [cursor=pointer]:
+              - /url: tel:+919908995550
+          - generic [ref=e141]:
+            - generic [ref=e142]: ✉
+            - link "preetimohapatra12@gmail.com" [ref=e143] [cursor=pointer]:
+              - /url: mailto:preetimohapatra12@gmail.com
+          - generic [ref=e144]:
+            - generic [ref=e145]: 📍
+            - paragraph [ref=e146]:
+              - text: Kondapur & Manikonda,
+              - text: Hyderabad, Telangana
+      - generic [ref=e147]:
+        - paragraph [ref=e148]:
+          - text: Designed & Developed by
+          - link "Roshni Stephen" [ref=e149] [cursor=pointer]:
+            - /url: https://rs.lokaai.in/
+          - text: "| Powered by"
+          - link "Loka AI" [ref=e150] [cursor=pointer]:
+            - /url: https://lokaai.in/
+        - paragraph [ref=e151]: © 2026 Nrityashala – School of Odissi Dance. All Rights Reserved.
+  - link "Chat on WhatsApp" [ref=e152] [cursor=pointer]:
+    - /url: https://wa.me/919908995550
+    - generic [ref=e153]:
+      - img [ref=e154]
+      - generic [ref=e156]: Chat with us

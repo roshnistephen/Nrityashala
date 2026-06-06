@@ -1,0 +1,162 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e4]:
+      - link "Nrityashala - School of Odissi Dance logo and wordmark Nrityashala School of Odissi Dance" [ref=e5] [cursor=pointer]:
+        - /url: index.html
+        - img "Nrityashala - School of Odissi Dance logo and wordmark" [ref=e6]
+        - generic [ref=e7]: Nrityashala School of Odissi Dance
+      - list [ref=e8]:
+        - listitem [ref=e9]:
+          - link "Home" [ref=e10] [cursor=pointer]:
+            - /url: index.html
+        - listitem [ref=e11]:
+          - link "About Guru" [ref=e12] [cursor=pointer]:
+            - /url: about.html
+        - listitem [ref=e13]:
+          - link "Classes" [ref=e14] [cursor=pointer]:
+            - /url: classes.html
+        - listitem [ref=e15]:
+          - link "Gallery" [ref=e16] [cursor=pointer]:
+            - /url: gallery.html
+        - listitem [ref=e17]:
+          - link "Events" [ref=e18] [cursor=pointer]:
+            - /url: events.html
+        - listitem [ref=e19]:
+          - link "Contact" [ref=e20] [cursor=pointer]:
+            - /url: contact.html
+  - banner [ref=e21]:
+    - generic [ref=e22]:
+      - heading "Events & Programmes" [level=1] [ref=e23]
+      - generic [ref=e25]: ✦
+  - generic [ref=e27]:
+    - generic [ref=e28]:
+      - heading "Kallol – Annual Odissi Dance Festival" [level=2] [ref=e29]
+      - heading "A Celebration of Grace, Tradition, and Artistic Excellence" [level=3] [ref=e30]
+      - generic [ref=e32]: ✦
+      - generic [ref=e33]:
+        - paragraph [ref=e34]:
+          - text: Nrityashala, the renowned School of Odissi Dance founded by Guru Smt. Preeti Mohapatra, proudly presented the inaugural edition of
+          - strong [ref=e35]: "\"Kallol\""
+          - text: ", its annual Odissi dance festival in Hyderabad. Derived from the Sanskrit word meaning"
+          - emphasis [ref=e36]: waves
+          - text: ", Kallol symbolises waves of joy, devotion, creativity, and artistic expression. The festival offered audiences an immersive journey through the rich and timeless tradition of Odissi dance."
+        - paragraph [ref=e37]: For over fifteen years, Nrityashala has been dedicated to preserving and promoting the classical heritage of Odissi through authentic training and artistic excellence. With thriving centres in Kondapur and Manikonda, the institution continues to inspire and nurture aspiring dancers while upholding the values of the Guru–Shishya tradition.
+        - generic:
+          - paragraph [ref=e38]: The festival was graced by eminent artists, scholars, and distinguished guests from the world of Indian classical dance, making the occasion a significant cultural gathering for Hyderabad's artistic community.
+          - paragraph [ref=e39]:
+            - text: The evening commenced with the traditional
+            - strong [ref=e40]: Mangala Charan
+            - text: ", invoking the blessings of Lord Jagannath and paying homage to the revered Guru–Shishya Parampara. Audiences were then introduced to the essence of Odissi through the iconic postures of"
+            - strong [ref=e41]: Chowka
+            - text: and
+            - strong [ref=e42]: Tribhanga
+            - text: ", reflecting the balance of strength, grace, and spirituality that defines the dance form."
+          - paragraph [ref=e43]:
+            - text: The repertoire featured a series of captivating presentations, including
+            - strong [ref=e44]: Vakratunda
+            - text: ", an invocation to Lord Ganesha,"
+            - strong [ref=e45]: Sthayee
+            - text: ", inspired by the sculptural splendour of the Konark Sun Temple, and"
+            - strong [ref=e46]: Basant Pallavi
+            - text: ", celebrating the beauty and vitality of spring through intricate rhythmic movements."
+          - paragraph [ref=e47]:
+            - text: A deeply expressive abhinaya presentation,
+            - strong [ref=e48]: "\"Kahin Gale Murali Phunka,\""
+            - text: brought to life the enchanting world of Sri Krishna and the devotion of the gopis through nuanced storytelling and emotive expression.
+          - paragraph [ref=e49]:
+            - text: A special highlight of the evening was the guest performance by acclaimed Odissi dancer
+            - strong [ref=e50]: Debashree Patnaik
+            - text: ", recipient of the National Youth Award and Shringarmani Award. Her presentation of"
+            - strong [ref=e51]: Devgandhari Pallavi
+            - text: captivated audiences with its elegance, rhythmic complexity, and sculptural beauty.
+          - paragraph [ref=e52]:
+            - text: The festival also featured
+            - strong [ref=e53]: Kaivarta Prasang
+            - text: ", a powerful episode from the Ramayana choreographed by Guru Sri Naba Kishore Mishra. Through the story of the devoted boatman Kevat and his unwavering faith in Lord Rama, the performance conveyed profound themes of devotion, humility, and surrender. The presentation by Guru Smt. Preeti Mohapatra left a lasting impression on the audience through its emotional depth and artistic refinement."
+          - paragraph [ref=e54]:
+            - text: The evening concluded with
+            - strong [ref=e55]: Moksha
+            - text: ", the traditional concluding item of Odissi, symbolising spiritual liberation and transcendence, bringing the artistic journey to a serene and uplifting culmination."
+          - paragraph [ref=e56]:
+            - text: At the heart of Kallol stands
+            - strong [ref=e57]: Guru Smt. Preeti Mohapatra
+            - text: ", an accomplished Odissi exponent and disciple of Padma Vibhushan Guru Sri Kelucharan Mohapatra and Guru Sri Naba Kishore Mishra. With over four decades of artistic dedication and more than twenty-five years as a respected guru, she continues to inspire generations of dancers through her unwavering commitment to the preservation and promotion of Odissi."
+          - paragraph [ref=e58]: Through Kallol, Nrityashala reaffirmed its vision of nurturing artistic excellence, preserving cultural heritage, and creating meaningful platforms for the celebration of classical Indian dance. The festival marked a significant milestone in the institution's journey and promises to become a cherished annual celebration of Odissi in Hyderabad.
+        - button "Read More" [ref=e59] [cursor=pointer]:
+          - generic [ref=e60]: Read More
+          - generic [ref=e61]: ▼
+    - generic [ref=e62]:
+      - heading "Festival Moments" [level=3] [ref=e63]
+      - generic [ref=e65]: ✦
+      - generic [ref=e66]:
+        - img "Kallol festival group performance" [ref=e68] [cursor=pointer]
+        - img "Kallol festival group performance" [ref=e70] [cursor=pointer]
+        - img "Kallol festival group performance" [ref=e72] [cursor=pointer]
+        - img "Kallol festival group performance" [ref=e74] [cursor=pointer]
+        - img "Kallol festival group performance" [ref=e76] [cursor=pointer]
+        - img "Kallol festival group performance" [ref=e78] [cursor=pointer]
+  - contentinfo [ref=e79]:
+    - generic [ref=e80]:
+      - generic [ref=e81]:
+        - generic [ref=e82]:
+          - img "Nrityashala - School of Odissi Dance logo and wordmark" [ref=e83]
+          - heading "Nrityashala" [level=3] [ref=e84]
+          - paragraph [ref=e85]: School of Odissi Dance
+          - paragraph [ref=e86]: Authentic classical Odissi training under the guidance of Smt. Preeti Mohapatra in Hyderabad since 2009.
+          - generic [ref=e87]:
+            - link "Instagram" [ref=e88] [cursor=pointer]:
+              - /url: https://www.instagram.com/nrityashala_hyd
+              - img [ref=e89]
+            - link "Facebook" [ref=e91] [cursor=pointer]:
+              - /url: https://www.facebook.com/nrityashalaodissidance/
+              - img [ref=e92]
+        - generic [ref=e94]:
+          - heading "Quick Links" [level=4] [ref=e95]
+          - list [ref=e96]:
+            - listitem [ref=e97]:
+              - link "Home" [ref=e98] [cursor=pointer]:
+                - /url: index.html
+            - listitem [ref=e99]:
+              - link "About Guru" [ref=e100] [cursor=pointer]:
+                - /url: about.html
+            - listitem [ref=e101]:
+              - link "Classes" [ref=e102] [cursor=pointer]:
+                - /url: classes.html
+            - listitem [ref=e103]:
+              - link "Gallery" [ref=e104] [cursor=pointer]:
+                - /url: gallery.html
+            - listitem [ref=e105]:
+              - link "Events" [ref=e106] [cursor=pointer]:
+                - /url: events.html
+            - listitem [ref=e107]:
+              - link "Contact" [ref=e108] [cursor=pointer]:
+                - /url: contact.html
+        - generic [ref=e109]:
+          - heading "Get in Touch" [level=4] [ref=e110]
+          - generic [ref=e111]:
+            - generic [ref=e112]: 📞
+            - link "+91 9908 995 550" [ref=e113] [cursor=pointer]:
+              - /url: tel:+919908995550
+          - generic [ref=e114]:
+            - generic [ref=e115]: ✉
+            - link "preetimohapatra12@gmail.com" [ref=e116] [cursor=pointer]:
+              - /url: mailto:preetimohapatra12@gmail.com
+          - generic [ref=e117]:
+            - generic [ref=e118]: 📍
+            - paragraph [ref=e119]:
+              - text: Kondapur & Manikonda,
+              - text: Hyderabad, Telangana
+      - generic [ref=e120]:
+        - paragraph [ref=e121]:
+          - text: Designed & Developed by
+          - link "Roshni Stephen" [ref=e122] [cursor=pointer]:
+            - /url: https://rs.lokaai.in/
+          - text: "| Powered by"
+          - link "Loka AI" [ref=e123] [cursor=pointer]:
+            - /url: https://lokaai.in/
+        - paragraph [ref=e124]: © 2026 Nrityashala – School of Odissi Dance. All Rights Reserved.
+  - link "Chat on WhatsApp" [ref=e125] [cursor=pointer]:
+    - /url: https://wa.me/919908995550
+    - generic [ref=e126]:
+      - img [ref=e127]
+      - generic [ref=e129]: Chat with us

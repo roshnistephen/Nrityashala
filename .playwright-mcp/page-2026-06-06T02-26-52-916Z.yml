@@ -1,0 +1,147 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e4]:
+      - link "Nrityashala - School of Odissi Dance logo and wordmark Nrityashala School of Odissi Dance" [ref=e5] [cursor=pointer]:
+        - /url: index.html
+        - img "Nrityashala - School of Odissi Dance logo and wordmark" [ref=e6]
+        - generic [ref=e7]: Nrityashala School of Odissi Dance
+      - button "Toggle navigation" [ref=e8] [cursor=pointer]
+  - banner [ref=e12]:
+    - generic [ref=e13]:
+      - heading "Gallery" [level=1] [ref=e14]
+      - generic [ref=e16]: ✦
+  - generic [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e20]: Captured Grace
+      - heading "Moments of Classical Beauty" [level=2] [ref=e21]
+      - generic [ref=e23]: ✦
+      - paragraph [ref=e24]: A window into the world of Odissi — performances, workshops, and the everyday artistry of Nrityashala's students and faculty. Click on any image to view it in full.
+    - generic [ref=e25]:
+      - generic [ref=e26] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e27]
+        - generic [ref=e28]: ⊕
+      - generic [ref=e29] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e30]
+        - generic [ref=e31]: ⊕
+      - generic [ref=e32] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e33]
+        - generic [ref=e34]: ⊕
+      - generic [ref=e35] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e36]
+        - generic [ref=e37]: ⊕
+      - generic [ref=e38] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e39]
+        - generic [ref=e40]: ⊕
+      - generic [ref=e41] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e42]
+        - generic [ref=e43]: ⊕
+      - generic [ref=e44] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e45]
+        - generic [ref=e46]: ⊕
+      - generic [ref=e47] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e48]
+        - generic [ref=e49]: ⊕
+      - generic [ref=e50] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e51]
+        - generic [ref=e52]: ⊕
+      - generic [ref=e53] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e54]
+        - generic [ref=e55]: ⊕
+      - generic [ref=e56] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e57]
+        - generic [ref=e58]: ⊕
+      - generic [ref=e59] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e60]
+        - generic [ref=e61]: ⊕
+      - generic [ref=e62] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e63]
+        - generic [ref=e64]: ⊕
+      - generic [ref=e65] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e66]
+        - generic [ref=e67]: ⊕
+      - generic [ref=e68] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e69]
+        - generic [ref=e70]: ⊕
+      - generic [ref=e71] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e72]
+        - generic [ref=e73]: ⊕
+      - generic [ref=e74] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e75]
+        - generic [ref=e76]: ⊕
+      - generic [ref=e77] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e78]
+        - generic [ref=e79]: ⊕
+      - generic [ref=e80] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e81]
+        - generic [ref=e82]: ⊕
+      - generic [ref=e83] [cursor=pointer]:
+        - img "Nrityashala Odissi dance performance" [ref=e84]
+        - generic [ref=e85]: ⊕
+  - contentinfo [ref=e86]:
+    - generic [ref=e87]:
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - img "Nrityashala - School of Odissi Dance logo and wordmark" [ref=e90]
+          - heading "Nrityashala" [level=3] [ref=e91]
+          - paragraph [ref=e92]: School of Odissi Dance
+          - paragraph [ref=e93]: Authentic classical Odissi training under the guidance of Smt. Preeti Mohapatra in Hyderabad since 2009.
+          - generic [ref=e94]:
+            - link "Instagram" [ref=e95] [cursor=pointer]:
+              - /url: https://www.instagram.com/nrityashala_hyd
+              - img [ref=e96]
+            - link "Facebook" [ref=e98] [cursor=pointer]:
+              - /url: https://www.facebook.com/nrityashalaodissidance/
+              - img [ref=e99]
+        - generic [ref=e101]:
+          - heading "Quick Links" [level=4] [ref=e102]
+          - list [ref=e103]:
+            - listitem [ref=e104]:
+              - link "Home" [ref=e105] [cursor=pointer]:
+                - /url: index.html
+            - listitem [ref=e106]:
+              - link "About Guru" [ref=e107] [cursor=pointer]:
+                - /url: about.html
+            - listitem [ref=e108]:
+              - link "Classes" [ref=e109] [cursor=pointer]:
+                - /url: classes.html
+            - listitem [ref=e110]:
+              - link "Gallery" [ref=e111] [cursor=pointer]:
+                - /url: gallery.html
+            - listitem [ref=e112]:
+              - link "Events" [ref=e113] [cursor=pointer]:
+                - /url: events.html
+            - listitem [ref=e114]:
+              - link "Contact" [ref=e115] [cursor=pointer]:
+                - /url: contact.html
+        - generic [ref=e116]:
+          - heading "Get in Touch" [level=4] [ref=e117]
+          - generic [ref=e118]:
+            - generic [ref=e119]: 📞
+            - link "+91 9908 995 550" [ref=e120] [cursor=pointer]:
+              - /url: tel:+919908995550
+          - generic [ref=e121]:
+            - generic [ref=e122]: ✉
+            - link "preetimohapatra12@gmail.com" [ref=e123] [cursor=pointer]:
+              - /url: mailto:preetimohapatra12@gmail.com
+          - generic [ref=e124]:
+            - generic [ref=e125]: 📍
+            - paragraph [ref=e126]:
+              - text: Kondapur & Manikonda,
+              - text: Hyderabad, Telangana
+      - generic [ref=e127]:
+        - paragraph [ref=e128]:
+          - text: Designed & Developed by
+          - link "Roshni Stephen" [ref=e129] [cursor=pointer]:
+            - /url: https://rs.lokaai.in/
+          - text: "| Powered by"
+          - link "Loka AI" [ref=e130] [cursor=pointer]:
+            - /url: https://lokaai.in/
+        - paragraph [ref=e131]: © 2026 Nrityashala – School of Odissi Dance. All Rights Reserved.
+  - link "Chat on WhatsApp" [ref=e132] [cursor=pointer]:
+    - /url: https://wa.me/919908995550
+    - img [ref=e134]
+  - dialog "Image viewer":
+    - button "Close": ✕
+    - button "Previous": ‹
+    - img "Gallery image"
+    - button "Next": ›

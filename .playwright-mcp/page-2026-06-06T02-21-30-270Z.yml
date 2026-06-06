@@ -1,0 +1,166 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e4]:
+      - link "Nrityashala - School of Odissi Dance logo and wordmark Nrityashala School of Odissi Dance" [ref=e5] [cursor=pointer]:
+        - /url: index.html
+        - img "Nrityashala - School of Odissi Dance logo and wordmark" [ref=e6]
+        - generic [ref=e7]: Nrityashala School of Odissi Dance
+      - list [ref=e8]:
+        - listitem [ref=e9]:
+          - link "Home" [ref=e10] [cursor=pointer]:
+            - /url: index.html
+        - listitem [ref=e11]:
+          - link "About Guru" [ref=e12] [cursor=pointer]:
+            - /url: about.html
+        - listitem [ref=e13]:
+          - link "Classes" [ref=e14] [cursor=pointer]:
+            - /url: classes.html
+        - listitem [ref=e15]:
+          - link "Gallery" [ref=e16] [cursor=pointer]:
+            - /url: gallery.html
+        - listitem [ref=e17]:
+          - link "Events" [ref=e18] [cursor=pointer]:
+            - /url: events.html
+        - listitem [ref=e19]:
+          - link "Contact" [ref=e20] [cursor=pointer]:
+            - /url: contact.html
+  - banner [ref=e21]:
+    - generic [ref=e22]:
+      - heading "Classes at Nrityashala" [level=1] [ref=e23]
+      - generic [ref=e25]: ✦
+  - generic [ref=e28]:
+    - generic [ref=e29]: What We Offer
+    - heading "Classical Training in the Odissi Tradition" [level=2] [ref=e30]
+    - generic [ref=e32]: ✦
+    - paragraph [ref=e33]: Training at Nrityashala follows the authentic Guru-Shishya parampara, offering structured classical Odissi education in a nurturing and artistically rich environment.
+  - generic [ref=e35]:
+    - generic [ref=e36]:
+      - generic [ref=e37]: Timings
+      - heading "Class Schedule" [level=2] [ref=e38]
+      - generic [ref=e40]: ✦
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - generic [ref=e44]: 📍
+          - heading "Kondapur Centre" [level=3] [ref=e45]
+        - generic [ref=e46]:
+          - generic [ref=e47]:
+            - generic [ref=e48]: Days
+            - generic [ref=e49]: Saturday & Sunday
+          - generic [ref=e50]:
+            - generic [ref=e51]: Timing
+            - generic [ref=e52]: 4:00 PM – 6:00 PM
+          - generic [ref=e53]:
+            - generic [ref=e54]: Location
+            - generic [ref=e55]: Golden Habitat, BP Raju Marg, Kondapur, Hyderabad – 500084
+          - generic [ref=e56]:
+            - generic [ref=e57]: Mode
+            - generic [ref=e58]: Offline (In-Person)
+      - generic [ref=e59]:
+        - generic [ref=e60]:
+          - generic [ref=e61]: 📍
+          - heading "Manikonda Centre" [level=3] [ref=e62]
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - generic [ref=e65]: Days
+            - generic [ref=e66]: Tuesday & Thursday
+          - generic [ref=e67]:
+            - generic [ref=e68]: Timing
+            - generic [ref=e69]: 5:00 PM – 7:00 PM
+          - generic [ref=e70]:
+            - generic [ref=e71]: Location
+            - generic [ref=e72]: Manikonda, Hyderabad
+          - generic [ref=e73]:
+            - generic [ref=e74]: Mode
+            - generic [ref=e75]: Offline (In-Person)
+  - generic [ref=e77]:
+    - generic [ref=e78]:
+      - generic [ref=e79]: Learning Modes
+      - heading "Flexible Options for Every Student" [level=2] [ref=e80]
+      - generic [ref=e82]: ✦
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - img [ref=e86]
+        - heading "Offline Classes" [level=3] [ref=e88]
+        - paragraph [ref=e89]: In-person training at our Kondapur and Manikonda centres. Experience the richness of live instruction, with direct guidance from Smt. Preeti Mohapatra in an inspiring studio environment.
+      - generic [ref=e90]:
+        - img [ref=e92]
+        - heading "Online Classes" [level=3] [ref=e94]
+        - paragraph [ref=e95]: For students across India and abroad, we offer personalized online sessions via video call. Receive the same quality of training and personal attention from the comfort of your home.
+  - generic [ref=e97]:
+    - generic [ref=e98]: Join Us
+    - heading "Begin Your Odissi Journey Today" [level=2] [ref=e99]
+    - generic [ref=e101]: ✦
+    - paragraph [ref=e102]: To enroll or enquire about admissions, contact Smt. Preeti Mohapatra directly. We welcome students at all levels — no prior dance experience is required to start.
+    - generic [ref=e103]:
+      - link "Enquire Now" [ref=e104] [cursor=pointer]:
+        - /url: contact.html
+      - link "WhatsApp Us" [ref=e105] [cursor=pointer]:
+        - /url: https://wa.me/919908995550
+      - 'link "Call: 9908 995 550" [ref=e106] [cursor=pointer]':
+        - /url: tel:+919908995550
+  - contentinfo [ref=e107]:
+    - generic [ref=e108]:
+      - generic [ref=e109]:
+        - generic [ref=e110]:
+          - img "Nrityashala - School of Odissi Dance logo and wordmark" [ref=e111]
+          - heading "Nrityashala" [level=3] [ref=e112]
+          - paragraph [ref=e113]: School of Odissi Dance
+          - paragraph [ref=e114]: Authentic classical Odissi training under the guidance of Smt. Preeti Mohapatra in Hyderabad since 2009.
+          - generic [ref=e115]:
+            - link "Instagram" [ref=e116] [cursor=pointer]:
+              - /url: https://www.instagram.com/nrityashala_hyd
+              - img [ref=e117]
+            - link "Facebook" [ref=e119] [cursor=pointer]:
+              - /url: https://www.facebook.com/nrityashalaodissidance/
+              - img [ref=e120]
+        - generic [ref=e122]:
+          - heading "Quick Links" [level=4] [ref=e123]
+          - list [ref=e124]:
+            - listitem [ref=e125]:
+              - link "Home" [ref=e126] [cursor=pointer]:
+                - /url: index.html
+            - listitem [ref=e127]:
+              - link "About Guru" [ref=e128] [cursor=pointer]:
+                - /url: about.html
+            - listitem [ref=e129]:
+              - link "Classes" [ref=e130] [cursor=pointer]:
+                - /url: classes.html
+            - listitem [ref=e131]:
+              - link "Gallery" [ref=e132] [cursor=pointer]:
+                - /url: gallery.html
+            - listitem [ref=e133]:
+              - link "Events" [ref=e134] [cursor=pointer]:
+                - /url: events.html
+            - listitem [ref=e135]:
+              - link "Contact" [ref=e136] [cursor=pointer]:
+                - /url: contact.html
+        - generic [ref=e137]:
+          - heading "Get in Touch" [level=4] [ref=e138]
+          - generic [ref=e139]:
+            - generic [ref=e140]: 📞
+            - link "+91 9908 995 550" [ref=e141] [cursor=pointer]:
+              - /url: tel:+919908995550
+          - generic [ref=e142]:
+            - generic [ref=e143]: ✉
+            - link "preetimohapatra12@gmail.com" [ref=e144] [cursor=pointer]:
+              - /url: mailto:preetimohapatra12@gmail.com
+          - generic [ref=e145]:
+            - generic [ref=e146]: 📍
+            - paragraph [ref=e147]:
+              - text: Kondapur & Manikonda,
+              - text: Hyderabad, Telangana
+      - generic [ref=e148]:
+        - paragraph [ref=e149]:
+          - text: Designed & Developed by
+          - link "Roshni Stephen" [ref=e150] [cursor=pointer]:
+            - /url: https://rs.lokaai.in/
+          - text: "| Powered by"
+          - link "Loka AI" [ref=e151] [cursor=pointer]:
+            - /url: https://lokaai.in/
+        - paragraph [ref=e152]: © 2026 Nrityashala – School of Odissi Dance. All Rights Reserved.
+  - link "Chat on WhatsApp" [ref=e153] [cursor=pointer]:
+    - /url: https://wa.me/919908995550
+    - generic [ref=e154]:
+      - img [ref=e155]
+      - generic [ref=e157]: Chat with us
