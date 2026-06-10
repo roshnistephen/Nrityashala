@@ -13,7 +13,7 @@
   --brand-apricot-white: #F4ECD4;
   --brand-maroon: #620621;
   --brand-black: #000000;
-  --brand-alizarin-red: #EC2027;
+  --brand-alizarin-red: #D4C5A9;
   --brand-myrtle-green: #1D4221;
 
   --maroon: var(--brand-maroon);
@@ -91,8 +91,8 @@ a:hover { color: var(--gold-light); }
   padding: 0 1.5rem;
 }
 
-.section { padding: 6rem 0; }
-.section-sm { padding: 4rem 0; }
+.section { padding: 4.5rem 0; }
+.section-sm { padding: 3.5rem 0; }
 
 .section-alt { background-color: var(--ivory-dark); }
 .section-dark {
@@ -532,7 +532,7 @@ a:hover { color: var(--gold-light); }
 .page-header .breadcrumb span { margin: 0 0.5rem; }
 
 /* ===== 7. WELCOME SECTION ===== */
-.welcome-section { padding: 7rem 0; background: var(--ivory); }
+.welcome-section { padding: 5.5rem 0; background: var(--ivory); }
 .welcome-grid {
   display: grid;
   grid-template-columns: 3fr 2fr;
@@ -649,7 +649,7 @@ a:hover { color: var(--gold-light); }
 }
 
 /* ===== 8. ODISSI INTRO ===== */
-.odissi-section { padding: 7rem 0; background: var(--gold); color: rgba(255,255,255,0.92); position: relative; overflow: hidden; }
+.odissi-section { padding: 5.5rem 0; background: var(--gold); color: rgba(255,255,255,0.92); position: relative; overflow: hidden; }
 .odissi-section .section-subtitle { color: var(--white); }
 .odissi-section::before {
   content: '';
@@ -668,7 +668,7 @@ a:hover { color: var(--gold-light); }
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
-  margin-top: 4.5rem;
+  margin-top: 3.5rem;
 }
 .odissi-feature {
   padding: 2.25rem 1.5rem;
@@ -687,7 +687,7 @@ a:hover { color: var(--gold-light); }
 .odissi-feature p { font-size: 0.875rem; color: rgba(250,247,242,0.82); margin: 0; }
 
 /* ===== 9. GURU PREVIEW ===== */
-.guru-preview { padding: 7rem 0; background: var(--ivory); }
+.guru-preview { padding: 5.5rem 0; background: var(--ivory); }
 .guru-preview-grid {
   display: grid;
   grid-template-columns: 5fr 7fr;
@@ -822,7 +822,7 @@ a:hover { color: var(--gold-light); }
 }
 
 /* ===== 10. GALLERY HIGHLIGHTS (HOME) ===== */
-.gallery-highlights { padding: 7rem 0; background: var(--ivory-dark); }
+.gallery-highlights { padding: 5.5rem 0; background: var(--ivory-dark); }
 .gallery-highlights-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -862,7 +862,7 @@ a:hover { color: var(--gold-light); }
 .g-overlay-icon { color: var(--brand-apricot-white); font-size: 1.5rem; }
 
 /* ===== 11. EVENTS HIGHLIGHTS (HOME) ===== */
-.events-highlights { padding: 7rem 0; background: var(--ivory); }
+.events-highlights { padding: 5.5rem 0; background: var(--ivory); }
 .events-hl-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -908,7 +908,7 @@ a:hover { color: var(--gold-light); }
 }
 
 /* ===== 12. CONTACT PREVIEW ===== */
-.contact-preview { padding: 7rem 0; background: var(--maroon); }
+.contact-preview { padding: 5.5rem 0; background: var(--maroon); }
 .contact-preview-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -958,7 +958,7 @@ a:hover { color: var(--gold-light); }
 }
 
 /* ===== 13. ABOUT GURU PAGE ===== */
-.about-bio { padding: 6rem 0; background: var(--ivory); }
+.about-bio { padding: 4.5rem 0; background: var(--ivory); }
 .about-bio-grid {
   display: grid;
   grid-template-columns: 2fr 3fr;
@@ -1074,7 +1074,7 @@ a:hover { color: var(--gold-light); }
 }
 
 /* Guru extra images */
-.guru-gallery { padding: 5rem 0; background: var(--ivory-dark); }
+.guru-gallery { padding: 4rem 0; background: var(--ivory-dark); }
 .guru-imgs-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -1756,7 +1756,8 @@ a:hover { color: var(--gold-light); }
 }
 @media (max-width: 768px) {
   :root { --nav-height: 68px; }
-  .section { padding: 4.5rem 0; }
+  .section { padding: 3.5rem 0; }
+  .section-sm { padding: 2.5rem 0; }
   .container { padding: 0 1rem; }
   .navbar { overflow: visible; }
   .navbar-brand { max-width: calc(100% - 4.5rem); }
@@ -1839,7 +1840,9 @@ a:hover { color: var(--gold-light); }
   .contact-right-box { padding: 2rem; }
   .contact-right-box a { display: block; width: 100%; margin-bottom: 1rem; margin-right: 0; }
   .contact-right-box a:last-child { margin-bottom: 0; }
+  .hero-content { padding-top: 2.5rem; }
   .hero-title { font-size: 2.5rem; }
+  .hero-title span { font-weight: 300; }
   .lightbox-prev { left: 0.5rem; }
   .lightbox-next { right: 0.5rem; }
   .hero-cta { justify-content: center; }
@@ -1847,9 +1850,18 @@ a:hover { color: var(--gold-light); }
   .cta-buttons { flex-direction: column; align-items: stretch; }
   .cta-buttons .btn { width: 100%; text-align: center; }
   .social-btns { flex-direction: column; }
+  .welcome-section { padding: 4rem 0; }
+  .odissi-section { padding: 4rem 0; }
+  .guru-preview { padding: 4rem 0; }
+  .gallery-highlights { padding: 4rem 0; }
+  .events-highlights { padding: 4rem 0; }
+  .contact-preview { padding: 4rem 0; }
+  .about-bio { padding: 3.5rem 0; }
+  .guru-gallery { padding: 3rem 0; }
 }
 @media (max-width: 480px) {
-  .section { padding: 3.5rem 0; }
+  .section { padding: 3rem 0; }
+  .section-sm { padding: 2rem 0; }
   .navbar-brand img { max-width: 150px; }
   .navbar-brand-name { font-size: 0.9rem; }
   .navbar-brand-tagline { font-size: 0.48rem; letter-spacing: 0.1em; }
