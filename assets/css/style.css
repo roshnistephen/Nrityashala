@@ -345,9 +345,10 @@ a:hover { color: var(--gold-light); }
   height: 100vh;
   min-height: 620px;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
   overflow: hidden;
+  padding-top: 12vh;
 }
 .hero-bg {
   position: absolute;
@@ -1871,8 +1872,8 @@ a:hover { color: var(--gold-light); }
   .guru-imgs-grid { grid-template-columns: 1fr; }
   .welcome-stats { grid-template-columns: 1fr; }
   .about-highlights { grid-template-columns: 1fr; }
-  .hero { min-height: 95vh; height: auto; }
-  .hero-content { padding-top: 1.5rem; margin-top: 0; }
+  .hero { min-height: 95vh; height: auto; padding-top: 8vh; }
+  .hero-content { padding-top: 0; margin-top: 0; }
   .hero-cta { flex-direction: column; align-items: center; }
   .hero-cta .btn { width: 100%; text-align: center; max-width: 280px; }
   .cta-buttons { flex-direction: column; align-items: stretch; }
@@ -1883,8 +1884,8 @@ a:hover { color: var(--gold-light); }
 }
 
 @media (max-height: 700px) and (max-width: 480px) {
-  .hero { min-height: auto; height: 100vh; }
-  .hero-content { padding-top: 1rem; }
+  .hero { min-height: auto; height: 100vh; padding-top: 6vh; }
+  .hero-content { padding-top: 0; }
   .hero-eyebrow { margin-bottom: 0.75rem; }
   .hero-title { font-size: 2rem; line-height: 1.2; }
   .hero-subtitle { font-size: 0.85rem; margin-bottom: 0.25rem; }
@@ -1895,8 +1896,8 @@ a:hover { color: var(--gold-light); }
 }
 
 @media (min-height: 700px) and (max-width: 480px) {
-  .hero { min-height: 95vh; height: auto; }
-  .hero-content { padding-top: 2rem; }
+  .hero { min-height: 95vh; height: auto; padding-top: 8vh; }
+  .hero-content { padding-top: 0; }
 }
 
 /* ===== 21. TESTIMONIALS SECTION ===== */
