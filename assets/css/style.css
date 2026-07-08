@@ -456,15 +456,15 @@ a:hover { color: var(--gold-light); }
 }
 .hero-cta .btn-outline-gold {
   background: transparent;
-  color: var(--brand-maroon);
-  border: 2px solid var(--brand-maroon);
+  color: var(--brand-white);
+  border: 2px solid var(--brand-white);
   font-weight: 700;
 }
 .hero-cta .btn-outline-gold:hover {
   background: transparent;
-  color: var(--brand-maroon);
-  border-color: var(--brand-maroon);
-  box-shadow: 0 4px 20px rgba(98, 6, 33, 0.5);
+  color: var(--brand-white);
+  border-color: var(--brand-white);
+  box-shadow: 0 4px 20px rgba(255, 255, 255, 0.3);
   transform: translateY(-2px);
 }
 .cta-buttons { display: flex; gap: 1rem; justify-content: flex-start; flex-wrap: wrap; align-items: center; }
