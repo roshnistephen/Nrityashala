@@ -443,25 +443,28 @@ a:hover { color: var(--gold-light); }
 .hero-divider-icon { color: #FFFFFF; font-size: 0.85rem; }
 .hero-cta { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-top: 2rem; }
 .hero-cta .btn-gold {
-  background: var(--brand-white);
-  color: var(--brand-alizarin-red);
-  border: 2px solid var(--brand-white);
+  background: var(--brand-alizarin-red);
+  color: #FFEB3B;
+  border: 2px solid var(--brand-alizarin-red);
   font-weight: 700;
 }
 .hero-cta .btn-gold:hover {
   background: var(--brand-alizarin-red);
-  color: var(--brand-white);
-  box-shadow: 0 4px 20px rgba(255,255,255,0.3);
+  color: #FFFF99;
+  box-shadow: 0 4px 20px rgba(255, 235, 59, 0.5);
   transform: translateY(-2px);
 }
 .hero-cta .btn-outline-gold {
   background: transparent;
-  color: var(--brand-white);
-  border: 2px solid var(--brand-white);
+  color: #FFEB3B;
+  border: 2px solid #FFEB3B;
+  font-weight: 700;
 }
 .hero-cta .btn-outline-gold:hover {
-  background: var(--brand-white);
-  color: var(--brand-alizarin-red);
+  background: transparent;
+  color: #FFFF99;
+  border-color: #FFFF99;
+  box-shadow: 0 4px 20px rgba(255, 235, 59, 0.5);
   transform: translateY(-2px);
 }
 .cta-buttons { display: flex; gap: 1rem; justify-content: flex-start; flex-wrap: wrap; align-items: center; }
